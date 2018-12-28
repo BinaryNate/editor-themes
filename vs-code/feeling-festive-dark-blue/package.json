@@ -1,0 +1,21 @@
+{
+    "name": "feeling-festive-dark-blue",
+    "displayName": "Feeling Festive - dark blue",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Feeling Festive - dark blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Feeling Festive - dark blue-color-theme.json"
+            }
+        ]
+    }
+}

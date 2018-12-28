@@ -1,0 +1,21 @@
+{
+    "name": "feeling-festive-dark-yellow",
+    "displayName": "Feeling Festive - dark yellow",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Feeling Festive - dark yellow",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Feeling Festive - dark yellow-color-theme.json"
+            }
+        ]
+    }
+}

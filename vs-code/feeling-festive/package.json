@@ -1,0 +1,21 @@
+{
+    "name": "feeling-festive",
+    "displayName": "Feeling Festive",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Feeling Festive",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Feeling Festive-color-theme.json"
+            }
+        ]
+    }
+}

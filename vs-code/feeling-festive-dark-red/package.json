@@ -1,0 +1,21 @@
+{
+    "name": "feeling-festive-dark-red",
+    "displayName": "Feeling Festive - dark red",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Feeling Festive - dark red",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Feeling Festive - dark red-color-theme.json"
+            }
+        ]
+    }
+}
